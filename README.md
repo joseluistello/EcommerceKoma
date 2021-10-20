@@ -1,2 +1,2 @@
-# OpenEducation
+# EcommerceKoma
 Django Platform Project
